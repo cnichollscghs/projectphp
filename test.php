@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
+	<title>Im Johnson</title>		
 	</head>
+	
 	<body>
 		Catrionas Page
 		<?php
